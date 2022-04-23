@@ -1,4 +1,4 @@
-# Dio-desafio github primeiro repositorio
+# Dio-desafio Git/github primeiro repositorio
 Desafio de projeto Git/Github
 
 ## Links Úteis 
