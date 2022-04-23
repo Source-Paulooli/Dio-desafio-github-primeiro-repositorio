@@ -1,0 +1,22 @@
+## Link para o download do Git (https://git-scm.com/downloads)  
+
+
+
+Alguns comandos é suas funcões para o Windowns  : 
+
+- Comando para listas ; DIR 
+
+- Comando para navegar sobre as pastas ; CD / 
+
+- Comando para retroceder ; CD .. 
+
+- Comando para limpar ; CTRL+L
+
+- Comando para criar pasta ; MKDIR  
+   *Esses são alguns comandos , tem varios outros  mas por enquanto deixarei anotado somente esses.
+  
+  
+  
+
+*Auto completar : TAB 
+*Navegar pelo historico : Seta para Cima 
